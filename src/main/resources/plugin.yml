@@ -1,4 +1,4 @@
 name: NoChatAndCommand
-version: '1.0-SNAPSHOT'
+version: '1.0'
 main: net.starcode.noChatAndCommand.NoChatAndCommand
 api-version: '1.21'
