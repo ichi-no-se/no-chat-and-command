@@ -22,3 +22,24 @@ A lightweight Minecraft Paper plugin that disables chat and commands for non-OP 
 
 - Tested on Paper 1.21.4
 - Built with Java 21, Gradle 8.8
+
+## 🛠️ Build Instructions
+
+This project uses Gradle Wrapper.
+
+- **Mac / Linux**:
+  ```bash
+  ./gradlew build
+  ```
+
+- **Windows (Command Prompt)**:
+  ```cmd
+  gradlew.bat build
+  ```
+
+- **Windows (PowerShell)**:
+  ```powershell
+  .\gradlew.bat build
+  ```
+
+The compiled `.jar` file will be located in the `build/libs/` directory.
